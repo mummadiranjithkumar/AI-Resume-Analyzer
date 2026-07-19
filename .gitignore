@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Chroma database
+chroma_db/
+
+# Python cache
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# macOS
+.DS_Store
