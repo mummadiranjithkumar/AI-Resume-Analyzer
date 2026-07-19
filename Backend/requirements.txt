@@ -1,1 +1,19 @@
 
+fastapi
+uvicorn[standard]
+python-dotenv
+python-multipart
+
+google-genai
+
+pypdf
+
+chromadb
+
+sentence-transformers
+
+numpy
+
+requests
+
+pydantic
